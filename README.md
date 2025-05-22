@@ -1,12 +1,34 @@
-# React + Vite
+# Capstone Project #1 — Tenzies 🎲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A learning-based React project where I will build the Tenzies game from scratch.
 
-Currently, two official plugins are available:
+The goal is to practice key React concepts such as:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Component structure
+- State management with `useState`
+- Side effects with `useEffect`
+- Conditional rendering
+- Basic styling and layout
 
-## Expanding the ESLint configuration
+This project is part of my React learning journey and will evolve step by step.  
+More features and logic will be added as I progress.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Built with Vite + React
+
+---
+
+## 🇺🇦 Українською
+
+Це мій перший капстоун-проєкт на React — гра **Tenzies**, яку я створюю з нуля.
+
+Мета — потренуватись у таких речах:
+
+- Структура компонентів
+- Робота зі станом через `useState`
+- Побічні ефекти через `useEffect`
+- Умовний рендеринг
+- Стили та візуальне оформлення
+
+Проєкт буде поступово розвиватися у процесі мого навчання.
+
+> Створено з використанням Vite + React
